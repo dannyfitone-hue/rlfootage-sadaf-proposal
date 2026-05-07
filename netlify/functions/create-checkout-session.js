@@ -36,16 +36,7 @@ exports.handler = async function(event, context) {
         }
       ],
       success_url: `${origin}/?success=true`,
-      cancel_url: `${origin}/#checkout`,
-      metadata: {
-        projectType: projectType || '',
-        packageName: packageName || '',
-        clientName: client.name || '',
-        clientPhone: client.phone || '',
-        clientEmail: client.email || '',
-        location: client.location || '',
-        notes: client.notes || ''
-      }
+      cancel_url: `${origin}/#checkout`
     });
 
     return {
