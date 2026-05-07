@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"dependencies":{"stripe":"latest"}}
+=======
+{
+  "dependencies": {
+    "stripe": "latest"
+  }
+}
+>>>>>>> 1ef5b327c74400ffb370807bc9e44582ee223696
