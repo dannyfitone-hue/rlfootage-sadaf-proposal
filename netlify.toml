@@ -1,9 +1,0 @@
-[build]
-  publish = "."
-  functions = "netlify/functions"
-<<<<<<< HEAD
-=======
-
-[functions]
-  node_bundler = "esbuild"
->>>>>>> 1ef5b327c74400ffb370807bc9e44582ee223696
