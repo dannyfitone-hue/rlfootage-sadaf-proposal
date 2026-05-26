@@ -16,8 +16,6 @@ export default function Page() {
           <section><h2 className="text-2xl font-black text-white">How We Use Information</h2><p>We use submitted information to respond to inquiries, provide customer support, send appointment reminders, send document request reminders, provide account-related updates, and connect users with participating service providers or mortgage professionals when requested.</p></section>
           <section><h2 className="text-2xl font-black text-white">SMS Communications</h2><p>By submitting a form and agreeing to receive SMS communications, users consent to receive text messages from HELOC CONNECT related to their inquiry, account updates, appointment reminders, document reminders, and support communications. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance.</p></section>
           <section><h2 className="text-2xl font-black text-white">Information Sharing</h2><p>We do not sell personal information. Information may be shared with participating service providers or mortgage professionals only as needed to respond to a user’s inquiry or requested communication.</p></section>
-          <section><h2 className="text-2xl font-black text-white">Security</h2><p>We use reasonable administrative, technical, and organizational safeguards to help protect submitted information.</p></section>
-          <section><h2 className="text-2xl font-black text-white">Contact</h2><p>For privacy questions or SMS assistance, contact HELOC CONNECT through the contact options provided on our website.</p></section>
         </div>
 
       </div>
